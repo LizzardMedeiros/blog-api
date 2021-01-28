@@ -26,7 +26,7 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 - [Como desenvolver](#como-desenvolver)
   - [Linter](#linter)
 - [Requisitos do projeto](#requisitos-do-projeto)
-  - [Observações importantes](👀-Observações-importantes)
+  - [Observações importantes](#👀-Observações-importantes)
     - [Dicas](#dicas)
   - [Lista de Requisitos](#lista-de-requisitos)
     - [1 - Sua aplicação deve ter o endpoint POST `/user`](#1---Sua-aplicação-deve-ter-o-endpoint-POST-/user)
@@ -85,7 +85,7 @@ O projeto tem até a seguinte data: `03/02/2021 - 14:00h`. Para ser entregue a a
 ### ANTES DE COMEÇAR A DESENVOLVER:
 
 1. Clone o repositório
-  * `git clone https://github.com/betrybe/sd-05-project-blogs-api.git`.
+  * `git clone https://github.com/tryber/sd-05-project-blogs-api.git`.
   * Entre na pasta do repositório que você acabou de clonar:
     * `cd sd-05-project-blogs-api`
 
